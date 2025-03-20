@@ -31,8 +31,7 @@ sepolia TestNet
 https://sepolia.etherscan.io/address/0xe984f31e44273844f9b313d66ebed6eb8e73376d#code
 
 
-YouTube
-https://www.youtube.com/watch?v=oJgENg8aFBA
+
 
 
 #HOW TO RUN
