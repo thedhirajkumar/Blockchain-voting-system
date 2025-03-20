@@ -1,10 +1,6 @@
 # blockchain-voting-system v.0.1
 
 
-```
-Updated Date 7/1/2024
-```
-
 
 Blockchain Voting System Project 🍳CheckOut #github
 
